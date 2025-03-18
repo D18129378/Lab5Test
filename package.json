@@ -12,6 +12,6 @@
   "dependencies": {
     "firebase": "^11.0.0",
     "firebaseui": "^6.1.0",
-    "vite": "^6.1.0"
+    "vite": "^6.2.0"
   }
 }
